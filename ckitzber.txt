@@ -1,0 +1,12 @@
+git remote add origin <git URL>
+git clone <git URL>
+touch ckitzber.txt //erstellt die text Datei
+git add ckitzber.txt
+git commit
+git push origin main
+
+git pull
+//edit README
+git add README.md
+git commit
+git push origin main
