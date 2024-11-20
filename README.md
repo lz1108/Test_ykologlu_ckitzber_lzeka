@@ -4,7 +4,7 @@ Learta Zeka
 Constantin Kitzberger
 Lara Bauer
 ***lzeka@htblasteyr.onmicrosoft.com***
-***ykologlu11@gmail.com***
+***ykologlu@htl-steyr.ac.at***
 ***ckitzber@htl-steyr.ac.at***
 ***lbauer1@htl-steyr.ac.at***
 
