@@ -1,0 +1,2 @@
+// Link zur Aufgabe
+https://www.htl-steyr.ac.at/intern/wiki/doku.php?id=el-it:sw-entwicklung:versionskontrolle:exercises:git%20

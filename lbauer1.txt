@@ -1,0 +1,5 @@
+git clone https://github.com/lz1108/Test_ykologlu_ckitzber_lzeka.git
+git remote add origin https://github.com/lz1108/Test_ykologlu_ckitzber_lzeka.git
+git add lbauer1.txt
+git commit -m "lbauer1.txt angelegt"
+git push

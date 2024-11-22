@@ -1,0 +1,28 @@
+git clone https://github.com/lz1108/Test_ykologlu_ckitzber_lzeka.git
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+
+git add lzeka.txt
+git commit -m "<lzeka.txt ertsellt>"
+git pull
+git add READE.md 
+git commit -m "<README.md learta>"
+git push
+git pull
+git add README.md
+git commit -m "<email learta eingefügt>"
+git push origin main
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/lz1108/Test_ykologlu_ckitzber_lzeka.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+git add README.md
+git commit -m"<email learta>"
+git push origin
